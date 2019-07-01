@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\Login\Login\bin\Debug\Login.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\Login\Login\obj\Debug\Login.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Login\Login\obj\Debug\Login.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Login\Login\bin\Debug\Login.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Login\Login\bin\Debug\Login.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Login\Login\obj\Debug\Proyect.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Login\Login\obj\Debug\Login.CapaPRESE.asistencia.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Login\Login\obj\Debug\Login.CapaPRESE.medidad.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Login\Login\obj\Debug\Login.Form2.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Login\Login\obj\Debug\Login.Form3.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Login\Login\obj\Debug\Proyect.csproj.GenerateResource.Cache
